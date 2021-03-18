@@ -44,7 +44,7 @@ http://localhost:8080/admin/
 2、前台模板引擎：Thymeleaf
 3、前端用户页面：BootStrap、Html+Css、jquery、javascript、ajax、sweetalert等技术（模板网站中下载）
 5、后端管理员页面：Layui、Bootstrap、Echars
-6、数据库：mysql 5.7
+6、数据库：mysql 8.0.2
 7、缓存：redis
 8、消息队列：rabbitMQ
 9、架构模式：Restful架构模式
